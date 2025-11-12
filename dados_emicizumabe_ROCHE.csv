@@ -1,0 +1,13 @@
+﻿Parâmetros;0 a 06 anos com inibidores + ITI;0 a 06 anos sem inibidores ;07 a 12 anos com inibidores;13 a 18 anos com inibidores
+Número de Pacientes ;636;615;330;355
+Peso médio (KG);16;16;36;51
+Dose (MG/KG/semana);1,5;1,5;1,5;1,5
+Dose total semanal (UI);24;24;54;76,5
+Total anual por paciente (UI); 1.248 ; 1.248 ; 2.808 ; 3.978 
+Total anual da faixa etária (UI); 793.728 ; 767.520 ; 926.640 ; 1.412.190 
+Total da demanda (UI); 1.575.150 ; 851.745 ; 1.703.490 ; 2.555.235 
+% sobre o total da demanda %;50,39%;90,11%;54,40%;55,27%
+Frustração de receita R$; 619.108 ; 598.666 ; 722.779 ; 1.101.508 
+Impacto acumulado (UI); 793.728 ; 767.520 ; 1.694.160 ; 3.106.350 
+Impacto acumulado % da demanda;50,39%;90,11%;144,51%;199,77%
+Frustração acumulada de receita (R$); 619.108 ; 598.666 ; 1.321.445 ; 2.422.953 
